@@ -1,6 +1,8 @@
 # EstudosReact
 Estudos colocando um template do bootstrap no React
 
+Requisitos: node instalado
+
 Faça do download :
 https://github.com/alessandrolorenz/EstudosReact
 
