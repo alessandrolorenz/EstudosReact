@@ -16,3 +16,6 @@ npm run dev
 
 Ele estará rodando na porta 8080.
 
+
+
+nota: É necessário instalar o jquery para a função de expandir o menu funcione corretamente
